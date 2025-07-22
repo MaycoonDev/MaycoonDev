@@ -46,9 +46,6 @@ Git, Docker, Kubernetes, Power BI, Excel Avançado
 - 🏫 **SENAI Blumenau – Técnico em Desenvolvimento de Sistemas** *(2022)*  
   Lógica de programação, Python, C#, testes, modelagem e implantação de sistemas
 
-- 📘 **Entra21 – Proway | Pacote Office 365** *(2021)*  
-  Excel Avançado, VBA, Power BI, Word e PowerPoint. Soft skills, inovação e empreendedorismo
-
 ---
 
 ## 🎯 Objetivo Profissional
@@ -71,26 +68,9 @@ Busco projetos desafiadores que ampliem minha experiência e conhecimento técni
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maycoondev/)
 - 💻 [Portfólio](https://maycondevport.netlify.app/telainicial)
-- 📧 maycondouglas.dev@gmail.com
-
+- 📧 maycoondrizz777@gmail.com
+- 
 ---
-
-## 👾 Pacman diz olá!
-
-```
-   .--. .-"      "-. .--.
-  / .. \          / .. \
- | |  '|          |'  | |
- | \__/          \__/ |
-  \     .--. .--.     /
-   '-._/   ||   \_.-'
-     /\__/ || \__/\
-     \__/\__/\__/\/
-      (_||__||__||_)
-```
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding gif" />
 </p>

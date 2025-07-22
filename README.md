@@ -1,43 +1,36 @@
+<h1 align="center">Olá, eu sou o Maycon Douglas 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Desenvolvedor+Backend+em+formação;Apaixonado+por+tecnologia;Sempre+buscando+evoluir+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧩 **3. Versão com foco em Backend + ASCII Sutil**
+## 👨‍💻 Sobre mim
 
-```markdown
-# Maycon Douglas — Backend Developer 👨‍💻
-
-💡 Jovem desenvolvedor backend de Blumenau-SC, com 21 anos e sede por conhecimento. Busco me desenvolver em tecnologias modernas e práticas eficientes para criar soluções sólidas e escaláveis.
-
----
-
-## 📘 Formação
-
-- +Devs2Blu – Desenvolvimento de Sistemas *(Cursando)*
-- SENAI – Técnico em Desenvolvimento de Sistemas *(2022)*
-- Entra21 – Pacote Office 365, Excel/VBA/Power BI *(2021)*
+🎓 21 anos, residente de Blumenau - SC  
+💻 Foco em desenvolvimento backend com Java e tecnologias modernas  
+📚 Autodidata, curioso e comprometido com boas práticas de desenvolvimento  
+🌱 Sempre estudando arquitetura, design patterns, Docker, Spring e mais!
 
 ---
 
-## 🧠 Tecnologias
+## 🧠 Habilidades Técnicas
 
-**Linguagens:** Java, HTML, CSS, JavaScript, C#  
-**Frameworks:** Spring, Quarkus, Angular  
-**DevOps:** Docker, Kubernetes  
-**Banco de dados:** SQL Server, PostgreSQL, MySQL  
-**Ferramentas:** Git, Power BI, Excel
+```java
+// Linguagens
+Java, JavaScript, HTML5, CSS3, C#
 
----
+// Frameworks
+Spring Boot, Quarkus, Angular (básico)
 
-## 📈 Objetivo Profissional
+// Banco de Dados
+PostgreSQL, MySQL, SQL Server
 
-Atuar como desenvolvedor backend em times que valorizem o crescimento técnico, trabalho colaborativo e boas práticas de engenharia de software.
+// Ferramentas
+Git, Docker, Kubernetes, Power BI, Excel Avançado
 
----
-
-## 🌐 Redes
-
-- GitHub: [MaycoonDev](https://github.com/MaycoonDev)
-- LinkedIn: [Maycon Douglas](https://www.linkedin.com/in/maycoondev/)
-
----
-
+// Soft Skills
+💡 Curioso
+🚀 Proativo
+🤝 Trabalho em equipe

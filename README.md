@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Maycon Douglas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Desenvolvedor+Backend+em+formação;Apaixonado+por+tecnologia;Sempre+buscando+evoluir+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Desenvolvedor+Backend+em+formação;Apaixonado+por+tecnologia;Sempre+buscando+evoluir+🚀"/>
 </p>
 
 ---
